@@ -1,5 +1,7 @@
 ## Usage
 
+Download this project template, and rename folder name `ccup-c-template` to your project name.
+
 ```sh
 $ chmod a+x ./ccup.sh
 
